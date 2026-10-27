@@ -25,6 +25,8 @@ if lado1 > 0 and lado2 > 0 and lado3 > 0:
 
 else:
     print("Error: todos los lados deben ser mayores que cero.")
+    
+
      
         
         
